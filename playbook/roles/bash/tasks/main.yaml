@@ -1,8 +1,0 @@
----
-- name: Download The Package
-  get_url:
-    url: https://download.sublimetext.com/Sublime%20Text%202.0.2%20x64.zip
-    dest: /tmp
-
-
-#checksum: md5:66dffb5228a211e61d6d7ef4a86f5758

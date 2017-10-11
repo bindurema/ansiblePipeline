@@ -1,5 +1,0 @@
-# Playbook
-
-## Evn
-- prod
-- dev
