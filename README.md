@@ -5,7 +5,7 @@
 - Create Jenkins A job
 - Provide a Job Name jenkins Job Type = Pipeline then OK
 - Select as IMAGE Option Below
-- ![pipeline job](https://user-images.githubusercontent.com/22466745/31443707-d912388c-aeb7-11e7-9413-2d50027774f0.PNG)
+![pipeline job](https://user-images.githubusercontent.com/22466745/31443707-d912388c-aeb7-11e7-9413-2d50027774f0.PNG)
 - REPOSITORY URL - https://github.com/harishchanderdalal/ansible_Bash_Playbook.git
 - same and RUN JOB
 
