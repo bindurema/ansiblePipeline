@@ -17,6 +17,6 @@
 
 NOTE - Configure Job Build Triggers > Build periodically 
 ```
-H * * * *
+* * * * *
 ```
 Save and wait after next Commit
