@@ -5,7 +5,7 @@ node('master') {
          echo 'checkout done'
    
    stage 'Ansible Playbook'
-         ansiblePlaybook colorized: true, playbook: '/var/lib/jenkins/workspace/${JOB_NAME}/site.yml', inventory: '/var/lib/jenkins/workspace/${JOB_NAME}/inventory/dev', sudo: true, sudoUser: null
+         ansiblePlaybook colorized: true, inventory: '/var/lib/jenkins/workspace/${JOB_NAME}/inventory/dev', playbook: '/var/lib/jenkins/wor
          echo 'maven validate'
    
    stage 'Job Status Status'
